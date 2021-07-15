@@ -1,0 +1,10 @@
+schemaVersion: 0
+schemaType: DataMart
+structure: Generic
+name: Diabetes
+type: Other
+description: 
+contentId: 3cd86d91-4f82-4cca-99a3-f605636aa205
+version: 
+objectRelationships: []
+attributeValues: []
